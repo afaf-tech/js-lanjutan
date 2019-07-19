@@ -1,5 +1,5 @@
 function matches(){
-    // used for seraching string value returning aray
+    // used for seraching string value returning array
     var si = "saya sedang sese belajar memasak nasi goreng";
     console.log(si.match("nasi"));
     console.log(si.match("belajar"));

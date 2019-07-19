@@ -5,5 +5,5 @@ function panggilConcat(){
     return nama.concat(kota);
 }
 
-
+// menggabungkan array
 console.log(panggilConcat());
